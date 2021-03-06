@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kaspi_Lab_2", "Kaspi_Lab_2\Kaspi_Lab_2.csproj", "{BE7B92B4-08C6-414A-A8A1-F6B4864DC717}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE7B92B4-08C6-414A-A8A1-F6B4864DC717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE7B92B4-08C6-414A-A8A1-F6B4864DC717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE7B92B4-08C6-414A-A8A1-F6B4864DC717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE7B92B4-08C6-414A-A8A1-F6B4864DC717}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF2CE26E-F9BB-42D8-8929-1835CF4CF068}
+	EndGlobalSection
+EndGlobal
